@@ -3,8 +3,22 @@ import { UserButton } from '@clerk/nextjs'
 const page = () => {
   return (
     <div>
-      You have joined us
-      <UserButton/>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      
+     <br />
+     <br />
+     <br />
+     <br />
+     <br />
+      <div className='flex items-center justify-center '><UserButton/></div> 
+      <br />
+      <br />
+      <br />
+      <br />
     </div>
   )
 }
